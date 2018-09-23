@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.body {
+	background: #f2f4f5;
+}
+
+.mb20 {
+	margin-bottom: 20px;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+
+.bgw {
+	background: #fff;
+}
+.p20 {
+	padding: 20px;
+}
+
+.name {
+	padding: 20px;
+	font-size: 18px;
+	color: #e93939;
+	margin-top: 15%;
+}
+
+.delete-link {
+	margin-bottom: -10px;
+	font-size: 14px;
+	color: #007fa3;
+}
+
+.avatar {
+	position: relative;
+    top: 40px;
+}
+
+button {
+	margin: 20px;
+}
+
+.row.action-btn > div {
+	margin: 5px;
+}
