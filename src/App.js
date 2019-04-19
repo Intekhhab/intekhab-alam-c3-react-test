@@ -1,10 +1,12 @@
 import React from "react";
 
 import { PearsonUsers } from "./PearsonUsers";
+import {GoogleBoatTest} from "./GoogleBoatTest";
 
 export const App = () => (
   <main>
     <PearsonUsers />
+    <GoogleBoatTest />
     <hr />
 
     {/*<p>
